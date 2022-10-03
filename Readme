@@ -1,0 +1,5 @@
+O github não aceita arquivos com mais de 25MB e lotes de no máximo 100 arquivos dentro da pasta. Sendo assim, alguns arquivos e pastas foram compactados e devem ser descompactados:
+
+DESLab distribution version\programas\python-3.6.4.rar
+DESLab distribution version\programas\graphviz-2.28.0.rar
+DESLab distribution version\modulos.zip
